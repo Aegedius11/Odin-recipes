@@ -1,0 +1,1 @@
+In this project I am going to creat a basic website containing different recipes. For now it will be entirely written in html. After completion I have demonstrated the ability to create a simple, yet not visually appealing website. Furthermore different pages will be linked together to create the complete website.
